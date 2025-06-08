@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Manny2706.github.io/manny-cart",
+  "homepage": "https://Manny2706.github.io/cart-demo",
   "name": "manny-cart",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
